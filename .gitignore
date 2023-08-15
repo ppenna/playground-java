@@ -1,0 +1,9 @@
+# Copyright(C) 2023 Pedro Henrique Penna <pedrohenriquepenna@gmail.com>
+# Licensed under the MIT license.
+
+# IDEs
+.swp
+.vscode
+
+# Build Artifacts
+*.class
